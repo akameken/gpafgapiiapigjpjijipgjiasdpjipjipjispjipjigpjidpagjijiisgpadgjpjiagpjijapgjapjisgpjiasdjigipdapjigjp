@@ -1,5 +1,6 @@
 token=NTAwOTMwMDY4NzkzNjU1Mjk2.DqR_3w.D5cZ9Wk8KQnYBryFYnOmNIs4f8M
 owner=476503634411257858
+owner=389136174154907651
 prefix=X
 status=INVISIBLE
 stayinchannel=true
